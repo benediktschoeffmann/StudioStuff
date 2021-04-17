@@ -1,4 +1,4 @@
-## Synths under 500 € 
+## Synths under 450 € 
 
 
 | price | Synth (with link) | Type
