@@ -1,3 +1,3 @@
 # StudioStuff
 
-* [Hardwaresynths unter 450 Euro](./synthsUnder450Euro.md)
+* [Hardwaresynths unter 450 Euro](.hardwareSynthsUnder450Euro.md)

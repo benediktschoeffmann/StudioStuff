@@ -4,6 +4,7 @@
 | price | Synth (with link) | Type
 | -		| -					| -
 | 449 | [Arturia Minibrute 2S](https://www.musicstore.de/de_DE/EUR/Arturia-MiniBrute-2S/art-SYN0006267-000) | Analog Monosynth
+| 444 | [DreadBox Hypnosis](https://www.thomann.de/at/dreadbox_hypnosis.htm) | Analog Delay/Echo Processor
 | 439 | [Arturia Minibrute 2](https://www.musicstore.de/de_DE/EUR/Arturia-MiniBrute-2/art-SYN0006265-000) | Analog Monosynth
 | 429 | [Yamaha MK-49 II](https://www.musicstore.de/de_DE/EUR/Yamaha-MX49-II-BU-blue/art-SYN0005424-000) | Polyphonic Digital Synth
 | 429 | [Behringer Odyssey](https://www.musicstore.de/de_DE/EUR/Behringer-Odyssey/art-SYN0007144-000) | Duophonic Monosynth
@@ -28,12 +29,12 @@
 | 285 | [Behringer Neutron](https://www.musicstore.de/de_DE/EUR/Behringer-NEUTRON/art-SYN0006410-000) | Analog Semimodular Paraphonic Synth
 | 282 | [Roland TB-3 (Reissue)](https://www.musicstore.de/de_DE/EUR/Roland-TB-3/art-SYN0004463-000) | Virtual Analog Synth
 | 279 | [Arturia Microbrute ](https://www.musicstore.de/de_DE/EUR/Arturia-MicroBrute-Analog-Synthesizer/art-SYN0004450-000) | Analog Semimodular Monosynth
-| 269 | [Twisted Electrons happiNES](https://www.musicstore.de/de_DE/EUR/Twisted-Electrons-hapiNES-L/art-SYN0007016-000) | 
+| 269 | [Twisted Electrons happiNES](https://www.musicstore.de/de_DE/EUR/Twisted-Electrons-hapiNES-L/art-SYN0007016-000) | Chiptune Synth
 | 259 | [Behringer Cat](https://www.musicstore.de/de_DE/EUR/Behringer-Cat/art-SYN0007357-000) | Analog Semimodular Monosynth
 | 259 | [Korg Monologue](https://www.musicstore.de/de_DE/EUR/Korg-monologue-silver/art-SYN0005655-000) | Analog Monosynth
 | 259 | [Arturia MicroFreak](https://www.musicstore.de/de_DE/EUR/Arturia-MicroFreak/art-SYN0006879-000) | Digital-analoger Hybrid-Synthesizer
 | 253 | [Behringer Pro-1](https://www.musicstore.de/de_DE/EUR/Behringer-Pro-1/art-SYN0007218-000) | Analog Synth
-| 239 | [Behringer Wasp Deluxe](https://www.musicstore.de/de_DE/EUR/Behringer-Wasp-Deluxe/art-SYN0007296-000) | Analog Monosynth
+| 239 | [Behringer Wasp Deluxe](https://www.musicstore.de/de_DE/EUR/Behringer-Wasp-Deluxe/art-SYN0007296-000) | Hybrid Monosynth
 | 222 | [Sonicware LIVEN 8bit warps ](https://www.musicstore.de/de_DE/EUR/Sonicware-LIVEN-8bit-warps/art-SYN0007794-000) | Digitaler Synthesizer with Sequencer
 | 222 | [Moog Werkstatt-01 + Expander](https://www.musicstore.de/de_DE/EUR/Moog-Werkstatt-01-CV-Expander-limited-edition/art-SYN0007718-000) | Analog Semimodular Monosynth
 | 222 | [Jomox-MBase-11](https://www.musicstore.de/de_DE/EUR/Jomox-MBase-11-Drumsynthesizer/art-SYN0003531-000) | Analog Drum Synthisizer
