@@ -50,3 +50,4 @@
 | 129 | [MAM MB 33](https://www.musicstore.de/de_DE/EUR/MAM-Systems-MB-33-Retro-/art-SYN0004744-000) | Analog Monosynth
 | 97 | [Korg SQ-1](https://www.musicstore.de/de_DE/EUR/Korg-SQ-1/art-SYN0004705-000) | Sequencer/Controller
 | 97 | [Behringer TB-3 RD](https://www.musicstore.de/de_DE/EUR/Behringer-TD-3-RD/art-SYN0007291-000) | Analog Monosynth w. Sequencer
+| 99 | [Korg NTS-1](https://www.musicstore.de/de_DE/EUR/Korg-NTS-1/art-SYN0007210-000) | Digital Monosynth 
